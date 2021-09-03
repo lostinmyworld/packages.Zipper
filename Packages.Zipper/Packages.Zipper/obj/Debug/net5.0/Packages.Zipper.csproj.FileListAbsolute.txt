@@ -1,0 +1,12 @@
+C:\Users\losti\source\repos\Zipper\Packages.Zipper\Packages.Zipper\obj\Debug\net5.0\Packages.Zipper.csproj.AssemblyReference.cache
+C:\Users\losti\source\repos\Zipper\Packages.Zipper\Packages.Zipper\obj\Debug\net5.0\Packages.Zipper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\losti\source\repos\Zipper\Packages.Zipper\Packages.Zipper\obj\Debug\net5.0\Packages.Zipper.AssemblyInfoInputs.cache
+C:\Users\losti\source\repos\Zipper\Packages.Zipper\Packages.Zipper\obj\Debug\net5.0\Packages.Zipper.AssemblyInfo.cs
+C:\Users\losti\source\repos\Zipper\Packages.Zipper\Packages.Zipper\obj\Debug\net5.0\Packages.Zipper.csproj.CoreCompileInputs.cache
+C:\Users\losti\source\repos\Zipper\Packages.Zipper\Packages.Zipper\bin\Debug\net5.0\Packages.Zipper.deps.json
+C:\Users\losti\source\repos\Zipper\Packages.Zipper\Packages.Zipper\bin\Debug\net5.0\Packages.Zipper.dll
+C:\Users\losti\source\repos\Zipper\Packages.Zipper\Packages.Zipper\bin\Debug\net5.0\ref\Packages.Zipper.dll
+C:\Users\losti\source\repos\Zipper\Packages.Zipper\Packages.Zipper\bin\Debug\net5.0\Packages.Zipper.pdb
+C:\Users\losti\source\repos\Zipper\Packages.Zipper\Packages.Zipper\obj\Debug\net5.0\Packages.Zipper.dll
+C:\Users\losti\source\repos\Zipper\Packages.Zipper\Packages.Zipper\obj\Debug\net5.0\ref\Packages.Zipper.dll
+C:\Users\losti\source\repos\Zipper\Packages.Zipper\Packages.Zipper\obj\Debug\net5.0\Packages.Zipper.pdb
