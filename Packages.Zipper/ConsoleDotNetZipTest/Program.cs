@@ -1,9 +1,9 @@
 ﻿using Common;
-using Packages.Zipper;
+using Packages.Zipper.DotNetZip;
 using System;
 using System.Linq;
 
-namespace ConsoleTest
+namespace ConsoleDotNetZipTest
 {
     internal static class Program
     {
@@ -14,7 +14,7 @@ namespace ConsoleTest
             var files = Extensions.ReadFiles();
             Console.WriteLine($"Read #{files.Count()} files.");
 
-            var zipper = new Zipper();
+            var zipper = new DotNetZipZipper();
             var compressedFile = zipper.Compress(files);
             Console.WriteLine("Compression done!");
             Console.WriteLine($"Compressed file name: {compressedFile.FileName}, bytes: #{compressedFile.Content.Length}");
@@ -22,6 +22,12 @@ namespace ConsoleTest
             compressedFile.WriteFile();
 
             Console.WriteLine("Export to compressed file done...");
+
+            var decompressedFiles = zipper.Decompress(compressedFile);
+            Console.WriteLine("Extracted to decompressed files done...");
+
+            decompressedFiles.WriteFiles();
         }
+
     }
 }

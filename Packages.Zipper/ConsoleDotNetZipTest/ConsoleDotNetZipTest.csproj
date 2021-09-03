@@ -7,7 +7,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Common\Common.csproj" />
-    <ProjectReference Include="..\Packages.Zipper\Packages.Zipper.csproj" />
+    <ProjectReference Include="..\Packages.Zipper.DotNetZip\Packages.Zipper.DotNetZip.csproj" />
   </ItemGroup>
 
   <ItemGroup>
